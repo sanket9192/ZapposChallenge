@@ -10,10 +10,9 @@ Note: The original dataset has been created for some different purpose.But I am 
 
 ## DESCRIPTIONS OF DATA FILE    
   
-u.data     -- The full u data set, 100000 visits by 943 users on 1682 items.  
-              Each user has visited at least 20 items.  Users and items are  
-              numbered consecutively from 1.  The data is randomly  
-              ordered. This is a tab separated list of   
-	         user id | item id | visits | timestamp.   
-              The time stamps are unix seconds since 1/1/1970 UTC     
+__u.data__  
+  
+  The full u data set, 100000 visits by 943 users on 1682 items.    
+  Each user has visited at least 20 items.Users and items are numbered consecutively from 1. The data is randomly ordered. This is a tab separated list of user id | item id | visits | timestamp.   
+                The time stamps are unix seconds since 1/1/1970 UTC     
 
